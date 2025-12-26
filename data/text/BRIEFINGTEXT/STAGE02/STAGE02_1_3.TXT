@@ -1,0 +1,8 @@
+Delight:　
+%player_name_%,　you'll　fly
+alongside　Jasmine,　Cactus　will
+fly　with　Gardenia　and　Whopper
+will　fly　with　Woodball.
+
+Each　pair　will　recon　their
+assigned　route.
