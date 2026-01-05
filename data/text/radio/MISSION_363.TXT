@@ -1,0 +1,6 @@
+Jasmine:
+Strange...
+If　this　is　a
+diversion,　shouldn't
+the　order　of　events
+be　in　reverse?

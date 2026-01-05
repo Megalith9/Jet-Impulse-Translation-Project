@@ -1,0 +1,4 @@
+Ginger:
+Enemy@forces@have
+infiltrated@the
+base.
