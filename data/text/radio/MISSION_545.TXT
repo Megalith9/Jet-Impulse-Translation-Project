@@ -1,0 +1,4 @@
+Jasmine:
+You're　almost　there,
+%player_name_%.
+You　can　make　it!!

@@ -1,0 +1,5 @@
+Riddle　White:
+Jasmine,
+%player_name_%,
+There's　no　need　to
+fight　anymore.
