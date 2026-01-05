@@ -1,0 +1,4 @@
+Jasmine：
+Revenge...　no,　that's　not　it.
+We　just　did　what　had　to　be　done,
+right,　%player_name_%?
