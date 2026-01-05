@@ -1,0 +1,7 @@
+Diane:
+Note　that　each　supply　depot
+will　be　marked　on　radar,
+but　cannot　be　locked-on.
+
+Use　your　sight　to　destroy
+them　all.
