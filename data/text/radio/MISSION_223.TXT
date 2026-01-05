@@ -1,4 +1,3 @@
 Ginger:
 You　are　leaving
-the　operation
-area.
+the　operation　area.

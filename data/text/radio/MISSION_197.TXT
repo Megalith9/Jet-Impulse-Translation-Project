@@ -1,3 +1,3 @@
 Max:
-I'm　hit.
-Bailing　out!
+I'm　hit.　Bailing
+out!

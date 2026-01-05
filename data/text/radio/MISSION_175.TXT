@@ -1,5 +1,3 @@
 Diane:
-Missiles　and
-guns　are
-ineffective!
-
+Missiles　and　guns
+are　ineffective!

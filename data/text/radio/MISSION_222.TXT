@@ -1,4 +1,3 @@
 Ginger:
 Confirmed,@all
-enemies
-destroyed!
+enemies@destroyed!

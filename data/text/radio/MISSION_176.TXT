@@ -1,5 +1,4 @@
 Diane:
 You　get　double
-points　by
-destroying　the
-marked　targets.
+points　by　destroying
+the　marked　targets.

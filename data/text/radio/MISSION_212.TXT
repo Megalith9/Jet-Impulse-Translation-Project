@@ -1,4 +1,3 @@
 Diane:
-You　have
-permission　to
-engage.
+You　have　permission
+to　engage.

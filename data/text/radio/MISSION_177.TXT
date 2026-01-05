@@ -1,4 +1,3 @@
 Diane:
 Targets　cannot　be
-destroyed　with
-shots!
+destroyed　with　guns!

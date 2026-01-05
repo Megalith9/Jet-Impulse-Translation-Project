@@ -1,5 +1,4 @@
 Jasmine:
 Ground　targets
-confirmed,
-commence　the
-attack.
+confirmed.
+Commence　the　attack!

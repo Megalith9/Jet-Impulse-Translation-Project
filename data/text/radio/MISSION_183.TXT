@@ -1,6 +1,5 @@
 Diane:
-Shoot　the
-balloons　before
-they　deflate　to
-achieve　a　higher
-score!
+Shoot　the　balloons
+before　they　deflate
+in　order　to　achieve
+a　higher　score!
