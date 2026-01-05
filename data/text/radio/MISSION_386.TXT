@@ -1,0 +1,4 @@
+Sword:
+I'm　in.　You're　ok
+with　it　too,　right,
+%player_name_%?
