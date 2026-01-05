@@ -1,0 +1,2 @@
+Get　down,　%player_name_%!
+Its　target　is─
