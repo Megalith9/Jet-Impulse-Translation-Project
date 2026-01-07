@@ -1,0 +1,8 @@
+%3cBALLOON　FIGHT%c
+Use　your　machine　guns　to　shoot
+down　balloons.
+
+The　balloons　will　deflate　after　a
+certain　amount　of　time.　Shoot　at
+the　right　time　to　increase　your
+score!

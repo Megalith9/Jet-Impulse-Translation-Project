@@ -1,0 +1,8 @@
+%2cWIN　CONDITIONS%c
+-　All　targets
+destroyed.
+
+%1cLOSE　CONDITIONS%c
+-　Time　over.
+-　Aircraft
+destroyed.

@@ -1,0 +1,7 @@
+%2cWIN　CONDITIONS%c
+-　All　balloons
+destroyed.
+
+%1cLOSE　CONDITIONS%c
+-　Aircraft
+destroyed.
