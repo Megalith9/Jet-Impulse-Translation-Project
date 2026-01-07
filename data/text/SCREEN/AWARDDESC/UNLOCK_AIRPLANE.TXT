@@ -1,0 +1,3 @@
+　New　aircraft
+　%%3c%s%%c
+　has　been　unlocked!

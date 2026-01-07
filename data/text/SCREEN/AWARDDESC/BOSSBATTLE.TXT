@@ -1,0 +1,4 @@
+　Free　Play
+　new　stage:
+　%3cBoss　Battle%c
+　has　been　unlocked!

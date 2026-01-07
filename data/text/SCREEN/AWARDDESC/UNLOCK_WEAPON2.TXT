@@ -1,0 +1,3 @@
+　New　weapon
+　%%3c%s%%c
+　has　been　unlocked!
