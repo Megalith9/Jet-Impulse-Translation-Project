@@ -1,0 +1,10 @@
+%3cRealistic%c　aircraft　controls.
+
+Up　button:　　%3cPitch　down%c
+Down　button:　　%3cPitch　up%c
+Left/Right　button:　　%3cRoll%c
+Ａ　button:　　%3cMissiles%c
+Ｂ　button:　　%3cMachine　gun%c
+Ｘ　button:　　%3cSwitch　target%c
+Ｙ+Left/Right　button:　　%3cYaw%c
+Weapon　icon:　　%3cSwitch　weapon%c

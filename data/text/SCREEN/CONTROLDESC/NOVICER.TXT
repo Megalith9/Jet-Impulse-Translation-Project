@@ -1,0 +1,10 @@
+%3cBasic%c　aircraft　controls.
+
+Up　button:　　%3cPitch　up%c
+Down　button:　　%3cPitch　down%c
+Left/Right　button:　　%3cTurn%c
+Ａ　button:　　%3cMissiles%c
+Ｂ　button:　　%3cMachine　gun%c
+Ｘ　button:　　%3cSwitch　target%c
+Ｙ　button:　　%3cSwitch　weapon%c
+Weapon　icon:　　%3cSwitch　weapon%c
