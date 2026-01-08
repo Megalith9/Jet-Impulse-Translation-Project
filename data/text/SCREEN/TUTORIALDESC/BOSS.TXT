@@ -1,0 +1,3 @@
+%3cBosses　and　Super　Aces%c　are　marked
+with　a　border.　In　VS　Mode,　they
+appear　in　orange　color.

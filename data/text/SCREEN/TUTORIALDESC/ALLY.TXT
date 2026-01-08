@@ -1,0 +1,4 @@
+%3cAllies%c　are　displayed　in　blue
+color.　However,　in　VS　Mode　they　are
+determined　by　the　color　of　your
+choice.

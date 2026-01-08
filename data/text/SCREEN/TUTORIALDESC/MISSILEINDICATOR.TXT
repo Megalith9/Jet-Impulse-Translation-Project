@@ -1,0 +1,4 @@
+This　displays　the　direction　of　an
+incoming　enemy　%3cmissile%c.　The　number
+shown　indicates　the　distance　to　the
+missile.

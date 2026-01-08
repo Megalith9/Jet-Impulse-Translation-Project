@@ -1,0 +1,3 @@
+This　arrow　indicates　%3cyour　aircraft.%c
+In　VS　Mode,　it　will　be　colored　based
+on　your　team　selection.

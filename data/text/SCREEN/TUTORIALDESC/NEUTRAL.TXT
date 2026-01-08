@@ -1,0 +1,2 @@
+Targets　that　%3cdon't　belong　to　either
+ally　or　foe%c　are　marked　in　white.

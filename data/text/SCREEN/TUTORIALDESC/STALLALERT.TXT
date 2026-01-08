@@ -1,0 +1,3 @@
+If　your　altitude　exceeds　1000ｍ　or
+your　speed　is　low,　a　%3cstall　warning%c
+will　appear　on　your　HUD.

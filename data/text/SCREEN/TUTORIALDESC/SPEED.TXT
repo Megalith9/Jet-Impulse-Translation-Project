@@ -1,0 +1,4 @@
+This　box　indicates　the　aircraft
+%3cspeed%c　as　KM/H.　Speed　up/down
+with　the　R　and　L　buttons
+accordingly.

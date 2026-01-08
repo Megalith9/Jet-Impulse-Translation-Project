@@ -1,0 +1,6 @@
+By　%3cturning　the　radio
+ON%c,　the　voices
+during　the　missions
+will　be　displayed　in
+the　radar　area　as
+text.

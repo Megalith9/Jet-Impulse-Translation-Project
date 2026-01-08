@@ -1,0 +1,2 @@
+The　green　bar　indicates　your　flight
+%3caltitude%c　on　meters.

@@ -1,0 +1,4 @@
+Your　maneuverability　will　be　reduced
+if　you　enter　a　%3cjamming　area.%c　Be
+sure　to　destroy　the　jammers　from　a
+safe　distance.

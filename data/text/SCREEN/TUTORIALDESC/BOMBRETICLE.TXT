@@ -1,0 +1,3 @@
+If　your　secondary　weapon　is　a　bomb,
+a　%3creticle%c　will　be　displayed
+below　your　plane.

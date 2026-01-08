@@ -1,0 +1,2 @@
+The　%3cgun　reticle%c　will　be　displayed
+when　you　get　close　to　an　enemy.

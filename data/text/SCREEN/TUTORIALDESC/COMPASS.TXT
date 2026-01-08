@@ -1,0 +1,2 @@
+The　compass　indicates　the　%3cdirection%c
+your　aircraft　is　currently　heading.

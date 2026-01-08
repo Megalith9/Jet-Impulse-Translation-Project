@@ -1,0 +1,4 @@
+This　indicator
+displays　the
+%3cremaining　HP　of　your
+aircraft.%c

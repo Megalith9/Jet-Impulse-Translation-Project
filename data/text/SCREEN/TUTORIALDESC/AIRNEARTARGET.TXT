@@ -1,0 +1,4 @@
+This　mark　indicates　a　%3ctargeted
+enemy　aircraft　at　close　range.%c
+Press　the　X　button　to　switch
+targets.

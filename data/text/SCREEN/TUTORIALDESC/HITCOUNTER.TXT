@@ -1,0 +1,5 @@
+This　indicator
+displays　the　%3cN°　of
+planes　you've　shot
+down%c　during　a
+mission.

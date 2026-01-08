@@ -1,0 +1,2 @@
+This　symbol　is　used　to　display　the
+%3ccenter　of　your　HUD.%c

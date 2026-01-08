@@ -1,0 +1,3 @@
+This　message　is　displayed　when　your
+%3cflight　altitude%c　is　low.　Turn　the
+nose　up　to　avoid　crashing.

@@ -1,0 +1,3 @@
+If　your　selected　weapon　is　a　bomb,
+a　%3creticle　indicating　the　impact
+point%c　will　appear　on　your　radar.

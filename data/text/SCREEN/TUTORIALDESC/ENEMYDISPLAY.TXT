@@ -1,0 +1,4 @@
+This　box　displays
+the　%3cdistance　and　HP%c
+of　the　enemies　you
+select.

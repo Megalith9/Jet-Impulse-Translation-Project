@@ -1,0 +1,3 @@
+%3cEnemies%c　are　displayed　in　red　color
+and　can　be　targetted.　In　VS　Mode,
+their　colors　may　vary.

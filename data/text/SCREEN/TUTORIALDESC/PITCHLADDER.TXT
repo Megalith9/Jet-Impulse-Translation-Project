@@ -1,0 +1,2 @@
+These　lines　on　your　HUD　shows　the
+aircraft　%3ctilt　and　vertical　angle.%c

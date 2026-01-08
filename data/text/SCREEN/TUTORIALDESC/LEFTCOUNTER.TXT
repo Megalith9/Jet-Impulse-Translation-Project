@@ -1,0 +1,5 @@
+This　indicator　shows
+the　%3ctotal　number　of
+enemy　aircrafts
+remaining　on　a
+mission.

@@ -1,0 +1,3 @@
+This　message　is　displayed　when　you
+are　%3clocked-on%c　by　an　enemy
+aircraft.

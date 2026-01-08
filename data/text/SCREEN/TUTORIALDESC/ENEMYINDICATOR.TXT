@@ -1,0 +1,2 @@
+The　arrow　displays　the　direction　of
+a　%3ctargeted　enemy.%c

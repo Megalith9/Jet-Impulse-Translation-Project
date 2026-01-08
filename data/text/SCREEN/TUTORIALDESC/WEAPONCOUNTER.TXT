@@ -1,0 +1,6 @@
+This　shows　the
+%3cremaining　ammo　of
+each　weapon.%c
+
+Touch　the　boxes　to
+switch　between　them.

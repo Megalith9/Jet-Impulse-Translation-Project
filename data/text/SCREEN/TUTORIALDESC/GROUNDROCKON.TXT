@@ -1,0 +1,3 @@
+This　mark　indicates　a　%3cground　enemy
+with　a　lock-on.%c　Use　your　missiles
+to　destroy　it.

@@ -1,0 +1,6 @@
+By　turning　this
+button　ON,　the　radar
+will　%3cautomatically
+zoom　in/out%c
+according　to　the
+enemy　distance.

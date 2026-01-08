@@ -1,0 +1,4 @@
+The　green　frame　indicates　the
+%3coperation　zone.%c　If　you　go
+outside　of　the　area,　you　will
+fail　your　current　mission.
