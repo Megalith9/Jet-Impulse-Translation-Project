@@ -1,6 +1,6 @@
 %3cBasic%c　aircraft　controls.
 
-U↑　button:　　%3cPitch　down%c
+↑　button:　　%3cPitch　down%c
 ↓　button:　　%3cPitch　up%c
 ←/→　button:　　%3cTurn%c
 Ａ　button:　　%3cMissiles%c
