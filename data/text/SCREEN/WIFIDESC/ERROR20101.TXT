@@ -1,0 +1,5 @@
+Wi-Fi　Connection　is　busy　or
+currently　unavailable.
+Please　wait　and　try　again.
+
+ERRORCODE:%d

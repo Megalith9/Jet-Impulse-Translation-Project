@@ -1,0 +1,5 @@
+No　available　access　point
+found.　Please　check　your
+Wi-Fi　connection　settings.
+
+ERRORCODE:%d

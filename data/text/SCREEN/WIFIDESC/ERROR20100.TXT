@@ -1,0 +1,6 @@
+Could　not　connect　to　Wi-Fi.
+Please　refer　to　the
+instruction　manual　for
+details.
+
+ERRORCODE:%d

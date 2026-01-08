@@ -1,0 +1,4 @@
+Disconnected　from　Wi-Fi　due
+to　a　communication　error.
+
+ERRORCODE:%d

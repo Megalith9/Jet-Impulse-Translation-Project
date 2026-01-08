@@ -1,0 +1,5 @@
+No　access　point　was　found.
+Please　move　closer　to　the
+access　point　and　try　again.
+
+ERRORCODE:%d

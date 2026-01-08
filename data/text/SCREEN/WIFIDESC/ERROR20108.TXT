@@ -1,0 +1,7 @@
+Your　Wi-Fi　Connection　ID　has
+been　deleted　due　to
+inactivity.　Please　refer　to
+the　instruction　manual　for
+details.
+
+ERRORCODE:%d

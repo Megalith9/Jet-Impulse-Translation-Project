@@ -1,0 +1,5 @@
+The　Wi-Fi　Connection　service
+for　this　software　has　ended.
+Thank　you　for　your　support.
+
+ERRORCODE:%d

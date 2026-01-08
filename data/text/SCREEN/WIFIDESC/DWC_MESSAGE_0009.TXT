@@ -1,0 +1,4 @@
+This　player　name　cannot　be
+used　for　Wi-Fi　Connection.
+Please　change　the　name　and
+reconnect.

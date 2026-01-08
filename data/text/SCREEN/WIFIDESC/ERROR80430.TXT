@@ -1,0 +1,7 @@
+NOUSENOUSENOUSENOUSENOUSENOUSE
+No　response　from　the　other　player.
+They　may　not　be　connected　to
+Wi-Fi　Connection,　or　you　may　have
+been　removed　from　their
+<Friend　List>.
+ERRORCODE:%d
