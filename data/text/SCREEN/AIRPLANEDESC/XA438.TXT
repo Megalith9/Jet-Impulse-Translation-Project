@@ -1,5 +1,5 @@
 %3cXA438　HEKTOR%c
-ネオパックスが開発したユニオン機。
-XA434の改良型。翼を大きくして低速
-での安定性を増し、搭載力も向上した
-強力なステルス・アタッカーである。
+A　Union　aircraft　developed　by　Neopax.　It's　an
+improved　variant　of　the　XA434　featuring　a
+larger　wingspan　that　improve　low-speed
+stability　and　payload　capacity.

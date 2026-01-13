@@ -1,5 +1,5 @@
 %3cMB387　HEIMDALL%c
-ミッドガルトがAZX05に対抗して
-研究開発したマルチロールファイター。
-加速性能や耐久力こそAZX05に劣るが、
-ハイテク武器に対応している。
+A　multirole　aircraft　created　by　Middgard　in
+response　to　the　AZX05.　It's　capable　of
+employing　high-tech　weaponry　in　compensation
+for　its　poor　acceleration.

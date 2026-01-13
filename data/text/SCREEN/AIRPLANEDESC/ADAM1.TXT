@@ -1,5 +1,5 @@
 %3cADAM1　SELBST%c
-開発国不明の謎の機体の一つ。
-その挙動は戦闘機とは異質なものだが、
-機動性に特に優れることからファイター
-に分類されている。
+A　mysterious　aircraft　of　unknown　origin.
+Although　its　behavior　differs　from　that
+of　standard　jets,　its　exceptional
+maneuverability　classifies　it　as　a　fighter.

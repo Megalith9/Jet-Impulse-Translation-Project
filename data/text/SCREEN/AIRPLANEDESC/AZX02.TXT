@@ -1,5 +1,5 @@
 %3cAZX02　FIRELIZARD%c
-フドー設計のアキツ製ファイター。
-今は練習機として使われている。
-運動性は同時期のアヴァロン製AZX03に
-勝るが、搭載力は低い。
+An　Akitsu　fighter　designed　by　Fudo,　primarily
+used　as　a　trainer　aircraft.　It　boasts　greater
+maneuverability　than　the　AZX03,　but　its
+payload　capacity　is　comparatively　low.

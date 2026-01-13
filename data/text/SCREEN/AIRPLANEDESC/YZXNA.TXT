@@ -1,5 +1,5 @@
 %3cYZXNA　MORTALIS%c
-開発国不明の謎の機体の一つ。
-その強力な兵装は、あらゆるターゲット
-に強烈なダメージを与えることが可能
-だが、運動性はないに等しい。
+A　mysterious　aircraft　of　unknown　origin.
+Armed　with　overwhelming　firepower　capable　of
+devastating　any　type　of　target,　it　sacrifices
+nearly　all　maneuverability.

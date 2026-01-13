@@ -1,5 +1,5 @@
 %3cZSR14　LIR%c
-アヴァロン海軍仕様のアタッカー。
-加速性能を犠牲にしつつも、全体的に
-バランスの取れた性能をもっており、
-対艦攻撃に適した機体であると言える。
+A　carrier-based　attacker　designed　for　the
+Avalon　Navy.　It　offers　a　well-balanced　overall
+performance,　making　it　a　strong　choice　for
+anti-ship　operations.

@@ -1,5 +1,5 @@
 %3cZSR18　GRAIL%c
-開発国不明の謎の機体の一つ。
-加速力に特化し、アフターバーナーを
-使わずに高速を維持することが可能。
-その他の性能は犠牲にされている。
+A　mysterious　aircraft　of　unknown　origin.
+Built　around　extreme　acceleration,　it　can
+maintain　high　speeds　without　afterburners,
+at　the　cost　of　nearly　all　other　aspects.

@@ -1,5 +1,5 @@
 %3cMB417　LOKI%c
-ネオパックスの技術提供により開発され
-た、ミッドガルト製スーパーエース専用
-ファイター。通常のパイロットでは、
-加減速時のＧに耐えられない。
+A　fighter　built　by　Middgard　using　technology
+from　Neopax.　A　normal　pilot　wouldn't　be　able
+to　withstand　the　G-forces　generated　during
+its　acceleration/deceleration.

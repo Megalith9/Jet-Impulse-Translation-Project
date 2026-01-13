@@ -1,5 +1,5 @@
 %3cYZX07　HIPPOGRIFF%c
-グローブフォースがAZX05に手を加え、
-コンピューター制御化やエンジン強化を
-施し、耐久性をさらに高めた。
-強力な半次世代ファイターである。
+A　Globe　Force-modified　AZX-05,　featuring
+fly-by-wire　controls　and　reinforced　engines　to
+further　enhance　its　durability.　It's　a　highly
+capable　semi　next-generation　fighter.

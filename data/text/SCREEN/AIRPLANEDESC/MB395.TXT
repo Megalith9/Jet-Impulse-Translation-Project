@@ -1,5 +1,4 @@
 %3cMB395　FREY%c
-MB387を進化させたファイター。
-耐久力は犠牲にしつつ武装能力を高め、
-コンピューター制御の強化によって運動
-能力面でも改善が見られる。
+A　fighter　aircraft　developed　from　the　MB387.
+Contains　an　enhanced　payload　and　better
+maneuverability　due　to　enhanced　avionics.

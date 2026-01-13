@@ -1,3 +1,2 @@
-現在、この場所に
-ダウンロードした機体は
-ありません。
+No　plane　downloaded　in　this
+slot.

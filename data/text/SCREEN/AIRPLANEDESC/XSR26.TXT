@@ -1,5 +1,5 @@
 %3cXSR26　MERCURIUS%c
-ウェスト・コミューンの次期主力機。
-ハイテク武器にも対応したアタッカー。
-加速性能はかなり低めになっているが、
-コンピューター制御で運動性は高い。
+The　West　Commune's　next　mainstay　aircraft.
+It　supports　high-tech　weaponry　and　its
+advanced　control　systems　provides　it　with
+excellent　maneuverability.

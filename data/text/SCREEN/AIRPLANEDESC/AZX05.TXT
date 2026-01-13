@@ -1,5 +1,5 @@
 %3cAZX05　GROSPHOS%c
-アヴァロン製の主力ファイター。
-安定した性能を持つが、やや低速安定性
-を欠く。また、複数の目標を同時に攻撃
-できるマルチミサイルを搭載可能。
+A　frontline　fighter　manufactured　by　Avalon.
+It　offers　good　stability　at　high　speeds　and
+can　be　equipped　with　multi-target　missiles
+capable　of　engaging　several　units　at　once.

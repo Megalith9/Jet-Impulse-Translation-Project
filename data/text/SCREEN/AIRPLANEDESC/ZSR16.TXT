@@ -1,5 +1,5 @@
 %3cZSR16　CALIBURNE%c
-アヴァロンの次世代主力ファイター。
-ベクターノズルによって、運動性を保持
-したまま、ステルス性も獲得。ハイテク
-武器に対応し、搭載力も高い。
+A　next-generation　fighter　made　by　Avalon.
+Thanks　to　thrust　vectoring　nozzles,　it　keeps
+strong　maneuverability　while　incorporating
+stealth　features　and　high　load　capacity.

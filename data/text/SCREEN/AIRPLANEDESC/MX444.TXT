@@ -1,5 +1,5 @@
 %3cMX444　ODIN%c
-ネオパックスの技術提供により開発され
-た、ミッドガルト製スーパーエース専用
-ファイター。MB417よりも運動性に優れ、
-ステルス性もある。
+A　fighter　built　by　Middgard　using　technology
+from　Neopax.　It　offers　a　superior　turning
+rate　compared　to　the　MB417,　while　also
+incorporating　stealth　characteristics.

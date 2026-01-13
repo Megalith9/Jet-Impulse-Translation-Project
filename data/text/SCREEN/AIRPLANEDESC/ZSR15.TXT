@@ -1,4 +1,4 @@
 %3cZSR15　OCEANUS%c
-ZSR14の欠点である加速能力を求めて
-ネオパックスが開発したアタッカー。
-総合的な運動性はかなり高まっている。
+An　attacker　developed　by　Neopax　to　address
+the　ZSR14's　lack　of　acceleration.　It　offers
+substantially　improved　maneuverability.
