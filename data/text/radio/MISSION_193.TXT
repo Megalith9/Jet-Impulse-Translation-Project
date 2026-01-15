@@ -1,5 +1,4 @@
 Jasmine:
 The　situation　is
-over!
-Great　job,
+over!　Great　job,
 %player_name_%.

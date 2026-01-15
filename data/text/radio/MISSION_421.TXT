@@ -1,3 +1,4 @@
 Diane:
-Enemy　helicopter　is
-approaching　Jasmine!
+Enemy　helicopters
+are　approaching
+Jasmine!
