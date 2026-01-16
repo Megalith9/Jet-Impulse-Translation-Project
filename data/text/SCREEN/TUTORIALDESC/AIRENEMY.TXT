@@ -1,2 +1,2 @@
-%3cAircrafts%c　are　displayed　as　wedge-
+%3cAircraft%c　are　displayed　as　wedge-
 shaped　symbols.
