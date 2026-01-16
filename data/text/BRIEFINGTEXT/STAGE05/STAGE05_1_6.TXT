@@ -2,7 +2,7 @@ Ginger:
 A　light　aircraft　carrier　has
 been　detected　as　well,　and　we
 expect　interception　by　VTOL
-aircrafts.
+aircraft.
 Destroy　the　enemy　ships　and
 thwart　their　ability　to
 counterattack.
