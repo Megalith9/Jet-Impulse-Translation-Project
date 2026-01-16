@@ -1,5 +1,5 @@
 Diane:
 Enemy　vessel
-detected!　Aircrafts
+detected!　Aircraft
 are　launching　from
 it!

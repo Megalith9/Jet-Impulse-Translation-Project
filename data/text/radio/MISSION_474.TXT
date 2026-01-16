@@ -1,5 +1,5 @@
 Enemy@ATC:
 Emergency!
 Emergency!
-Enemy@aircrafts
+Enemy@aircraft
 approaching!
