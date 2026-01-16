@@ -4,4 +4,4 @@ battle　records
 and　unlocked
 content.　You　can
 also　manage　your
-aircrafts.
+aircraft.
