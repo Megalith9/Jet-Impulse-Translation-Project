@@ -2,4 +2,4 @@ Cunningham:
 Operation　Frigate
 Bird　is　a　failure.
 Return　to　base
-inmediately.
+immediately.
